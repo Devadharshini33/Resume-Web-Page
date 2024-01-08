@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.resume{
+    text-align: center;
+}
+.about-sec{
+    margin: 10px;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 50px;
+}
+.skill-section{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.skill-section{
+    margin: 15px;
+}
+.college{
+   margin: 5px;
+}
+
+.education{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+p{
+    padding: 5px;
+}
+.Box{
+    width: 600px;
+    height: 50%;
+    border: 2px black solid;
+}
+.projects{
+    display: flex;
+    justify-content: space-around;
+    margin-top:10px;
+    margin-bottom: 5px;
+}
+.intern-con{
+    text-align: center;
+}
+.certifications{
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
